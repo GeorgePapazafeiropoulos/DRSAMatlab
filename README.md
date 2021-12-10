@@ -1,8 +1,8 @@
 # Dynamic-Response-Spectrum-Analysis
-Dynamic response spectrum analysis for estimation of structural response to dynamic loads (earthquakes, vibrations, shocks, etc.)
+Dynamic response spectrum analysis for estimation of MDOF structural response to dynamic loads (earthquakes, vibrations, shocks, etc.)
 
 
-Matlab code for the application of the dynamic response spectrum analysis (DRSA) of structures is presented. This procedure utilizes the following steps:
+Matlab code for the application of the dynamic response spectrum analysis (DRSA) of MDOF structures is presented. This procedure utilizes the following steps:
 
 Calculation of the stiffness matrix of the structure for the free degrees of freedom
 Calculation of the (lumped) mass matrix of the structure
